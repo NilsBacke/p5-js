@@ -1,5 +1,5 @@
 # p5-js
-An assortment of little projects written in javascript using the p5 library
+A collection of little projects written in javascript using the p5 library
 
 2PlayerPong:
 A 2 Player game (on the same machine) that simulates the infamous arcade game "Pong," but vertical instead of horizontal. 
