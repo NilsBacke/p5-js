@@ -50,3 +50,6 @@ ZombieSurvival:
 A zombie survival game where the player must move to avoid being attacked by the zombies and pick up weapons lying on the ground in an effort to exterminate all remaining zombies.
 
 ![Screenshot](ZombieSurvival/screenshot.png)
+
+index.html:
+The template for creating these scripts.
